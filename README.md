@@ -1,3 +1,10 @@
+
+# Hi there
+- I've renamed my github username from smiley-geek to kariuki-george
+- Kindly follow [kariuki-george](https://github.com/kariuki-george) to get to the new username.
+- Thanks. 
+
+
 <h1 align="center">
     <img width="400px" objectFit="contain" src="https://res.cloudinary.com/smiley-geek/image/upload/v1651491802/ae2htu0woikbguirfhr1.svg" alt="">
 </h1>
